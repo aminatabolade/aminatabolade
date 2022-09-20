@@ -42,6 +42,8 @@ I am passionate about the use of AI in solving real life problems especially, in
 <img.src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img.src= "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>
   </div>
+  
+  
 <!--
 **aminatabolade/aminatabolade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
