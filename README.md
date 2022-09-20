@@ -1,6 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/8hTm1yGaqsEn4CM8I3/giphy.gif" width="100"/>
+</div>
+
+
 ### Hi! Welcome 👋
-[![MasterHead](https://drive.google.com/file/d/1GuTMTKJcQuyYTsLf4vtlpTUn4Nb5k0k2/view?usp=sharing)](https://github.com/aminatabolade)
-  <img align="center" alt="Coding" width="400" src="https://drive.google.com/file/d/1GuTMTKJcQuyYTsLf4vtlpTUn4Nb5k0k2/view?usp=sharing">
+
 <!--
 **aminatabolade/aminatabolade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
