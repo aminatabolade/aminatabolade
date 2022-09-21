@@ -34,14 +34,14 @@ I am passionate about the use of AI in solving real life problems especially, in
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img.src= "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
-<img.src= "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
-<img.src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
-<img.src= "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
-<img.src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-<img.src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img.src= "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>
-  </div>
+<img src= "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src= "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>
+</div>
   
   
 <!--
@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminatabolade&show_icons=true&include_all_commits=true&hide_border=true" alt="aminatabolade's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminatabolade&langs_count=8&layout=compact&hide_border=true" alt="aminatabolade's GitHub stats" /> |
-| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminatabolade&show_icons=true&include_all_commits=true&hide_border=true" alt="aminatabolade's GitHub stats" /> 
+
