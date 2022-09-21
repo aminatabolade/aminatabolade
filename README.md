@@ -15,7 +15,7 @@
   Hi there! Welcome✨
 </h2>
 
-<h4 align="center">:woman_technologist: About me </h4>
+<h3 align="center">:woman_technologist: About me </h3>
 
 😄 I am Aminat, Data Scientist and Machine Learning Engineer. 
 I am passionate about the use of AI in solving real life problems especially, in the healthcare industry. 
