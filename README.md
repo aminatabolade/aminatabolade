@@ -59,4 +59,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminatabolade&show_icons=true&include_all_commits=true&hide_border=true" alt="aminatabolade's GitHub stats" /> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminatabolade&langs_count=8&layout=compact&hide_border=true" alt="aminatabolade's GitHub stats" /> |
+
 
