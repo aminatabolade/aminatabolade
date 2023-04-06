@@ -17,7 +17,7 @@
 
 <h3 align="center">:woman_technologist: About me </h3>
 
-😄 I am Aminat, Data Scientist. 
+😄 I am Aminat, an aspiring data scientist. 
 I am working with data and AI to solve real life problems especially, in the healthcare industry. 
 
 :telescope: I am currently on Internship - Working with data and building Machine learning models.
